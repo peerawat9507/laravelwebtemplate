@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'soda';
+    src: url('../fonts/MNNAMCHIM.ttf');
+
+
+}
+
+
+body {
+   /* font-family: 'Prompt', sans-serif; */
+    font-family: 'soda' ,sans-serif;
+
+}
+.mynav{
+
+    background-color: darkgreen;
+}
